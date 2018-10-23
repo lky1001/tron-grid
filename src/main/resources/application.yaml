@@ -1,0 +1,11 @@
+server:
+  port:
+
+spring:
+  data:
+    mongodb:
+      host:
+      port:
+      database:
+      username:
+      password:
